@@ -1,0 +1,7 @@
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\CSharp6\UnitTests\bin\Debug\UnitTests.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\CSharp6\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\CSharp6\UnitTests\bin\Debug\AutoPropertyInitialization.exe
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\CSharp6\UnitTests\bin\Debug\AutoPropertyInitialization.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\CSharp6\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\CSharp6\UnitTests\obj\Debug\UnitTests.dll
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\CSharp6\UnitTests\obj\Debug\UnitTests.pdb

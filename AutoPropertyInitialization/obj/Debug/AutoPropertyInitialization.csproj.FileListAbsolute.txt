@@ -1,0 +1,6 @@
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\CSharp6\AutoPropertyInitialization\bin\Debug\AutoPropertyInitialization.exe.config
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\CSharp6\AutoPropertyInitialization\bin\Debug\AutoPropertyInitialization.exe
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\CSharp6\AutoPropertyInitialization\bin\Debug\AutoPropertyInitialization.pdb
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\CSharp6\AutoPropertyInitialization\obj\Debug\AutoPropertyInitialization.csprojResolveAssemblyReference.cache
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\CSharp6\AutoPropertyInitialization\obj\Debug\AutoPropertyInitialization.exe
+c:\users\shane.kmiecik\documents\visual studio 2013\Projects\CSharp6\AutoPropertyInitialization\obj\Debug\AutoPropertyInitialization.pdb
