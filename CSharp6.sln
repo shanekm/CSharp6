@@ -1,15 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Start", "Start\Start.csproj", "{08A2ED7E-C2FD-43D0-AAA4-22A5DF6597B7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Start", "Start", "{81DAB968-0664-4B6E-B667-EB366DAE5B10}"
+	ProjectSection(SolutionItems) = preProject
+		Start\ReadMe.txt = Start\ReadMe.txt
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoPropertyInitialization", "AutoPropertyInitialization\AutoPropertyInitialization.csproj", "{4DFD3C53-F887-4DFA-B617-8498949D2775}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{17C3464B-517A-479B-A536-0F10DED1350F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventInitializers", "EventInitializers\EventInitializers.csproj", "{6D17FCAD-4AB6-4934-96CB-E90AC77823C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp", "CSharp\CSharp.csproj", "{E72DCDC5-93C4-41AD-96A2-AB1EE5465C22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,22 +16,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{08A2ED7E-C2FD-43D0-AAA4-22A5DF6597B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{08A2ED7E-C2FD-43D0-AAA4-22A5DF6597B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{08A2ED7E-C2FD-43D0-AAA4-22A5DF6597B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{08A2ED7E-C2FD-43D0-AAA4-22A5DF6597B7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4DFD3C53-F887-4DFA-B617-8498949D2775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4DFD3C53-F887-4DFA-B617-8498949D2775}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4DFD3C53-F887-4DFA-B617-8498949D2775}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4DFD3C53-F887-4DFA-B617-8498949D2775}.Release|Any CPU.Build.0 = Release|Any CPU
-		{17C3464B-517A-479B-A536-0F10DED1350F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{17C3464B-517A-479B-A536-0F10DED1350F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{17C3464B-517A-479B-A536-0F10DED1350F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{17C3464B-517A-479B-A536-0F10DED1350F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6D17FCAD-4AB6-4934-96CB-E90AC77823C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6D17FCAD-4AB6-4934-96CB-E90AC77823C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6D17FCAD-4AB6-4934-96CB-E90AC77823C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6D17FCAD-4AB6-4934-96CB-E90AC77823C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E72DCDC5-93C4-41AD-96A2-AB1EE5465C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E72DCDC5-93C4-41AD-96A2-AB1EE5465C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E72DCDC5-93C4-41AD-96A2-AB1EE5465C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E72DCDC5-93C4-41AD-96A2-AB1EE5465C22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

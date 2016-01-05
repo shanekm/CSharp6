@@ -7,10 +7,12 @@
 2. Auto Property Initializers
 	- you can NOT have { get; } only property. There is no way to set that property without set. Compile error. at least protected set is needed
 	- setter will be set to new Guid
+	- auto properties always had to have set
+	- if auto-initializers are used and set in constructor, constructor value will be new-ed
 
 	public Guid Id { get; } = Guid.NewGuid
 
-3. Primary Constructors & Explicit Constructors
+3. Primary Constructors & Explicit Constructors - TAKEN OUT FROM C# 6
 	- useful with auto property initializers
 	public struct Money(string currency, decimal amount, Stream stream)
 	{
