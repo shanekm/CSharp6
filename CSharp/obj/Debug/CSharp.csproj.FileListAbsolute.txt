@@ -1,0 +1,5 @@
+C:\dev\CSharp6\CSharp\bin\Debug\CSharp.exe.config
+C:\dev\CSharp6\CSharp\bin\Debug\CSharp.exe
+C:\dev\CSharp6\CSharp\bin\Debug\CSharp.pdb
+C:\dev\CSharp6\CSharp\obj\Debug\CSharp.exe
+C:\dev\CSharp6\CSharp\obj\Debug\CSharp.pdb
